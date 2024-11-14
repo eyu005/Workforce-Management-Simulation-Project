@@ -1,0 +1,10 @@
+﻿h Alice
+c Alpha
+t Alice Alpha
+h Bob
+t Bob Alpha
+c Bravo
+t Bob Bravo
+h Carol
+t Carol Alpha
+t Alice
